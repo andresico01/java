@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Resta cccomplejo" skipped="0" tests="1" time="0.35" timestamp="2021-05-20 11:07:54"><testcase name="restando complejos"><failure message="expected:&lt;37.0&gt; but was:&lt;-1.0&gt;" type="java.lang.AssertionError">expected:&lt;37.0&gt; but was:&lt;-1.0&gt;</failure><system-err>expected:&lt;37.0&gt; but was:&lt;-1.0&gt;&#13;
+accenture.company.app.stepdefinitios.RestaComplejoTest.laRespuestaEsperadaEsI(RestaComplejoTest.java:34)&#13;
+✽.la respuesta esperada es 37 + 41i(src/test/resources/features/multiplicarComplejo.feature:6)&#13;
+</system-err></testcase></testsuite>
